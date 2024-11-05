@@ -32,7 +32,7 @@ This project is a boilerplate designed for backend applications that need a robu
 
 
 ### Benefits of Using This Boilerplate
-#### None, just to save my time in the next project.. or just read the generated benefits from ChatGPT:
+#### None, just to save my time in the next project.. or just read the generated benefits from ChatGPT
 
 - **Time-Saving**: Provides an out-of-the-box project structure and configurations, saving you the effort of setting up a new project from scratch.
 - **Consistency**: Enforces consistent coding practices through TypeScript and ESLint.
@@ -59,7 +59,8 @@ This project is a boilerplate designed for backend applications that need a robu
 - **GitHub Actions**: For CI/CD workflows.
 
 ## Project Structure
-### why I'm using this structure? It's suit my current needs. It will be updated if required later.
+### why I'm using this structure? It's suit my current needs. It will be updated if required later
+
 ```plaintext
 .
 ├── .github
@@ -104,12 +105,12 @@ This project is a boilerplate designed for backend applications that need a robu
    ```bash
     npm install
    ```
-   
+
 3. Set up environment variables:
-  - Copy ```.env.example``` to ```.env``` and update values as needed (refer to ```.env.example``` for a complete list).
+- Copy ```.env.example``` to ```.env``` and update values as needed (refer to ```.env.example``` for a complete list).
 
 4. Initialize the database:
-  - Run Prisma migrations to create the database schema:
+- Run Prisma migrations to create the database schema:
    ```bash
     npx prisma migrate dev
    ```
@@ -118,7 +119,7 @@ This project is a boilerplate designed for backend applications that need a robu
    ```bash
     npm run dev
    ```
-   - The server will start on http://localhost:3000
+   - The server will start on ```http://localhost:3000```
   
 ## License
 - This project is licensed under the MIT License.
