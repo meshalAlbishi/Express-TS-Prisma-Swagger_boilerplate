@@ -11,11 +11,11 @@ This boilerplate project provides a foundation for building a Node.js REST API u
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Scripts](#scripts), not completed yet
-- [Environment Variables](#environment-variables), not completed yet
-- [CI/CD with GitHub Actions](#cicd-with-github-actions), not completed yet
-- [Swagger Documentation](#swagger-documentation), not completed yet
-- [Prisma](#prisma), not completed yet
+- Scripts, not completed yet
+- Environment Variables, not completed yet
+- CI/CD with GitHub Actions, not completed yet
+- Swagger Documentation, not completed yet
+- Prisma, not completed yet
 - [License](#license)
 
 ## Overview
