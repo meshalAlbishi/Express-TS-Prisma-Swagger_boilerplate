@@ -2,7 +2,7 @@
 
 This boilerplate project provides a foundation for building a Node.js REST API using Express.js, TypeScript, Prisma ORM, and Swagger for API documentation.
 
-   Please feel free to reach me for any improvements :)
+   Please feel free to reach out for any improvements :)
 ## Table of Contents
 
 - [Overview](#overview)
