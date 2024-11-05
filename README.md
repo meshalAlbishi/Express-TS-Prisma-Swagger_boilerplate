@@ -48,7 +48,7 @@ This project is a boilerplate designed for backend applications that need a robu
 - **Automatic database migrations** and seed data setup using Prisma.
 - **Swagger documentation** for easy API reference and testing.
 - **Type safety** and IntelliSense support with TypeScript.
-- **GitHub Actions** for automated testing and deployment.
+- **GitHub Actions** for automated testing and deployment., not completed yet
 
 ## Tech Stack
 
